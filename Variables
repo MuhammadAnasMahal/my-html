@@ -1,0 +1,8 @@
+name = "codingal"
+num  = "200"
+print("name = ", name)
+print("num = ", num)
+r = input("Enter your name")
+print(r, "Welcome to codingal")
+n = int(input("Enter your Number"))
+print("Your number is", n)
